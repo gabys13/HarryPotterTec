@@ -1,0 +1,2 @@
+# HarryPotterTec
+Los ambientes móviles ocupan un lugar importante a un mercado que crece ampliamente y los potenciales usuarios cada vez se internan a las nuevas tecnologías que constantemente presentan innovación, esto influye a involucrarse en nuevos paradigmas de programación, herramientas multimedia, modelado de datos, diseño de interfaz, conectividad de las bases de datos, herramientas de seguridad y uso del hardware. Este software está programado mediante el lenguaje de Java y se desarrolló en el entorno de Android Studio utilizando como Base de Datos SQLite. 
